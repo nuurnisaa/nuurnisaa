@@ -31,13 +31,12 @@
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+
 </div>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuurnisaa&layout=compact&theme=vision-friendly-dark)]
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuurnisaa&layout=compact&theme=vision-friendly-dark)
 
 
 
