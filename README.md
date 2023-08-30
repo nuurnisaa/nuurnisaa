@@ -3,13 +3,7 @@
 </div>
 
 
-👋 Hi there! I'm Nuur, a newbie on a journey to explore the exciting worlds of coding and cooking.
-
-👨‍💻 Coding: I'm eager to learn and apply new concepts and continuously grow my skills. From C++ to Python and beyond, I'm embracing the challenges and opportunities coding offers.
-
-🍳 Cooking: Beyond the screen, you'll find me experimenting in the kitchen. I believe that just like coding, cooking is an art that involves creativity, precision, a pinch of daring, and overcooked.
-
-🌱 I'm excited to document my learning journey and share my projects here. Feel free to join me in this adventure as I navigate the worlds of code and cuisine!
+👋 Hi there! I'm Nuur
 
 📫 You can reach me at: <div id="badges" display="inline">
   <a href="https://mail.google.com/mail/u/0/#inbox/">
