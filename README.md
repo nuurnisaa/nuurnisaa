@@ -3,7 +3,6 @@
 </div>
 
 
-👋 Hi there! I'm Nuur
 
 📫 You can reach me at: <div id="badges" display="inline">
   <a href="https://mail.google.com/mail/u/0/#inbox/">
